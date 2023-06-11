@@ -3048,6 +3048,7 @@ body {
 }
 .bg-primary {
   background-color: #378c3f !important;
+  /* background-color: #3d443e !important; */
 }
 .bg-info {
   background-color: #2ca8ff !important;
